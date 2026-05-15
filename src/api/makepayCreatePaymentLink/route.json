@@ -1,0 +1,5 @@
+{
+  "methods": ["POST"],
+  "path": "/makepay/payment-links",
+  "access": "public"
+}

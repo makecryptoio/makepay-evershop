@@ -1,0 +1,11 @@
+extend type Setting {
+  makepayPaymentStatus: Int
+  makepayApiBaseUrl: String
+  makepayCheckoutBaseUrl: String
+  makepayCompanyId: String
+  makepayApiKeyId: String
+  makepayApiKeySecret: String
+  makepayWebhookSecret: String
+  makepaySettlementCurrency: String
+  makepayExpirationTime: String
+}
